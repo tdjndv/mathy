@@ -1,4 +1,4 @@
 # mathy
 
-## A list of random thoughts of open problems in mathematics and computing
+## A list of random thoughts and code snippets of open problems in mathematics and computing
 - Domination number
